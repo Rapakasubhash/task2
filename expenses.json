@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 100.0,
+        "category": "food",
+        "description": "Lunch at McDonald's",
+        "date": "2025-03-03 12:13:09"
+    },
+    {
+        "amount": 100.0,
+        "category": "food",
+        "description": "lunch",
+        "date": "2025-03-03 12:15:27"
+    },
+    {
+        "amount": 20.0,
+        "category": "FOOD",
+        "description": "LUNCH",
+        "date": "2025-03-03 12:39:01"
+    }
+]
